@@ -1,0 +1,11 @@
+housing	loan	contact	month	day_of_week	Applicant_ID
+no	no	cellular	nov	wed	111
+no	no	telephone	nov	wed	111
+no	no	cellular	jul	mon	114
+yes	no	telephone	may	mon	116
+no	no	cellular	jun	tue	116
+no	no	cellular	aug	wed	119
+no	no	telephone	aug	wed	114
+yes	no	cellular	nov	wed	116
+no	no	telephone	may	fri	113
+yes	no	cellular	jul	tue	117

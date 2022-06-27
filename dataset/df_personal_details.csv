@@ -1,0 +1,11 @@
+age,job,marital,education,default,Applicant_ID
+49,blue-collar,married,basic.9y,unknown,116
+37,entrepreneur,married,university.degree,no,116
+78,retired,married,basic.4y,no,103
+36,admin.,married,university.degree,no,112
+59,retired,divorced,university.degree,no,103
+29,admin.,single,university.degree,no,117
+26,student,single,basic.9y,no,106
+30,blue-collar,married,basic.4y,no,116
+50,blue-collar,married,basic.4y,unknown,106
+33,admin.,single,high.school,no,102
