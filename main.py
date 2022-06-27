@@ -9,7 +9,7 @@ from data_transform.data_transform import transform
 
 
 def script():
-    url = "https://raw.githubusercontent.com/Biswajit7890/Data-Storage/main/cars"  # This the url of data
+    url = "https://raw.githubusercontent.com/Biswajit7890/varied-sources/master/dataset/"  # This the url of data
     df_csv, df_tsv, df_json, df_xml = data_request(url)  # Function for pulling the data
     df_main = transform(
         df_csv, df_tsv, df_json, df_xml
