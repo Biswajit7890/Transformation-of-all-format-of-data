@@ -1,9 +1,9 @@
 
 # Problem Statement:
 
-A Bank Manager recently hired some data engineers to fetch different format of data from different sources.and pass this to data scientist team to build a predictive model on the aggregate data.
+A Bank Manager recently hired some data Engineers to fetch different format of data from different sources.and pass this to data scientist team to build a predictive model on the aggregate data.
 
-So, He gave a task to data Enggineers to aggregate all format of data and have to make a one flat file with business conditions so that data can be usefull for the predictive analytics.
+So, He gave a task to data Engineer to aggregate all format of data and have to make a one flat file with business conditions so that data can be usefull for the predictive analytics.
 
 
 The Data structures:
