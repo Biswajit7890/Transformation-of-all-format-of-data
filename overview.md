@@ -1,14 +1,20 @@
 
-# OverView.
-This is to know how to pull data and process accoringly with a unittest assertion 
-
 # Problem Statement:
 
-Use varied sources of data csv, tsv, json, xml . 
-Concatenate relevant data after cleaning it. 
-Write code that is modular, uses classes, has unit tests built in and uses a logger to log information.
+A Bank Manager recently hired some data engineers to fetch different format of data from different sources.and pass this to data scientist team to build a predictive model on the aggregate data.
+
+So, He gave a task to data Enggineers to aggregate all format of data and have to make a one flat file with business conditions so that data can be usefull for the predictive analytics.
 
 
+The Data structures:
+
+      1. Personal Details
+      2. Loan  Details
+      3. Contact Duration Details
+      4. Term Deposit Details 
+      
+      
+   
 # Directory 
 
       1. main.py :-     this is main script which is the point of execution and the other functions have been imported from data_request and data_transform modules.
